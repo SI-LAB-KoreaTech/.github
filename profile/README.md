@@ -77,14 +77,6 @@ We split sensor-specific development into dedicated repos, integrated under the 
 
 ---
 
-## 👥 Team
-
-| Role | Member |
-|---|---|
-| Lead | @Jason *(update GitHub handle)* |
-| Member | *(update)* |
-| Member | *(update)* |
-
 > Commit messages, code comments, and documentation are written in **English** to keep the repo accessible to all lab members.
 
 ---
