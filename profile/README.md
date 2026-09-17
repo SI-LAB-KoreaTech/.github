@@ -77,10 +77,6 @@ We split sensor-specific development into dedicated repos, integrated under the 
 
 ---
 
-> Commit messages, code comments, and documentation are written in **English** to keep the repo accessible to all lab members.
-
----
-
 <div align="center">
 
 **SI-LAB · KoreaTech**
